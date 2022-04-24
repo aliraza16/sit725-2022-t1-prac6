@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "chai": "^4.3.6",
+    "express": "^4.17.3",
+    "mocha": "^9.2.2",
+    "request": "^2.88.2"
+  },
+  "scripts": {
+    "build": "react-scripts build",
+    "test": "mocha --reporter spec",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "socket.io": "^4.4.1"
+  }
+}
